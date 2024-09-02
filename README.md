@@ -1,7 +1,6 @@
 
 # Smart Surveillance System (S3)
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Introduction
 
@@ -50,16 +49,10 @@ The **Smart Surveillance System (S3)** is an advanced AI-powered security soluti
 - `utils/`: Utility scripts for processing video feeds, handling alerts, etc.
 - `data/`: Sample data and configurations for testing the system.
 
-## Contribution
-
-Contributions are highly appreciated! If you'd like to improve the system or add new features, feel free to fork the repository, make your changes, and submit a pull request. Please ensure your contributions align with the project's goals and maintain the code quality.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For any questions, suggestions, or issues, feel free to contact me via GitHub:
 
 - **GitHub**: [Sanskar Choubey](https://github.com/sanskarchoubey)
+- **LinkedIm**: [Sanskar Choubey](https://www.linkedin.com/in/sanskarchoubey14)
+
